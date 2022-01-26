@@ -1,16 +1,12 @@
 # sql_app
 
-A new Flutter project.
+A very simple example of communicating with a local SQLite database.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Blank Screen
+![Blank Screen](https://github.com/leviticus777/sql_app/assets/Screenshot_1.png)
+## Data Input 1
+![Data 1](https://github.com/leviticus777/sql_app/assets/Screenshot_2.png)
+## Data Input 2
+![Data 2](https://github.com/leviticus777/sql_app/assets/Screenshot_3.png)
+## Data Added to Database
+![SQL Database](https://github.com/leviticus777/sql_app/assets/sql_app_test_database.png)
